@@ -30,6 +30,7 @@ namespace Test
         private void button2_Click(object sender, EventArgs e)
         {
             this.label1.Text = "hduwh";
+            this.label2.Text = "456";
         }
     }
 }
